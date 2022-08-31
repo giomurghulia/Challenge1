@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.customview:customview:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/e866ed1c3b1625e40341faaf8cedd27c/transformed/customview-1.1.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/0228c7178a8c0e014fb885ce0d34de3a/transformed/customview-1.1.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/414bf543a28cfbb4ddbc8bda6500588a/transformed/customview-1.1.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/34a67112f3d72fdc14ee5133d2fb7d7e/transformed/customview-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/34a67112f3d72fdc14ee5133d2fb7d7e/transformed/customview-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/34a67112f3d72fdc14ee5133d2fb7d7e/transformed/customview-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/modules-2/files-2.1/androidx.customview/customview/1.1.0/be631aafb1eb3f64c9cc57083a21a3321cf2e2e1/customview-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

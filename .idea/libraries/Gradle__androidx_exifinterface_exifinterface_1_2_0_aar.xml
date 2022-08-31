@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.exifinterface:exifinterface:1.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/336deb28141790e9c8a7940066654a6c/transformed/exifinterface-1.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/3365233919c0413fd8354668fb41e6a3/transformed/exifinterface-1.2.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/3ffb48c930dd720884eca00f990abafc/transformed/exifinterface-1.2.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/9888354e6d92a5cd232e497d0292ed21/transformed/exifinterface-1.2.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/336deb28141790e9c8a7940066654a6c/transformed/exifinterface-1.2.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/336deb28141790e9c8a7940066654a6c/transformed/exifinterface-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/336deb28141790e9c8a7940066654a6c/transformed/exifinterface-1.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/modules-2/files-2.1/androidx.exifinterface/exifinterface/1.2.0/cae89dd2d8af4160feaed1a42933db7ccf0002d7/exifinterface-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

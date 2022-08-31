@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.dagger:hilt-android:2.43.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/6178fa22ba536e56e725549a98ed8618/transformed/jetified-hilt-android-2.43.2/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/db5814691efcabdf6be690f58241f3cf/transformed/jetified-hilt-android-2.43.2/res" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/86932456917f310d0d8e3366402df821/transformed/jetified-hilt-android-2.43.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/86932456917f310d0d8e3366402df821/transformed/jetified-hilt-android-2.43.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/transforms-3/86932456917f310d0d8e3366402df821/transformed/jetified-hilt-android-2.43.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.43.2/d8cc590ed1da36e3b949823da0990611e93db909/hilt-android-2.43.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/RecyclerViewGrid/gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.43.2/d32f6328af4ab25bc896877f77e855507b56d1be/hilt-android-2.43.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
